@@ -2,13 +2,13 @@
 
 I'm a Computer Science undergrad at **NIT Silchar** and a founding member of **[Nor AI Technologies](https://norai.tech)**, where I'm the AI lead and systems architect. I build AI systems that do real work: retrieval pipelines, stateful agents, and the full-stack products around them.
 
-I also love competitive programming. I've solved 1400+ problems across platforms, I'm a **Codeforces Specialist**, and I won **Enigma 39.0**, NIT Silchar's flagship CP contest.
+I also love competitive programming. I've solved 1300+ problems, I'm a **Codeforces Specialist**, and I won **Enigma 39.0**, NIT Silchar's flagship CP contest.
 
 ---
 
 ### 🏢 Nor AI Technologies
 
-As one of the founding engineers at [norai.tech](https://norai.tech/team), I design the AI systems and make sure their answers follow rules a program can check. I built the company website and every free tool it ships:
+As one of the founding engineers at [norai.tech](https://norai.tech), I design the AI systems and make sure their answers follow rules a program can check. I built the company website and every free tool it ships:
 
 | Tool | What it does |
 |---|---|
@@ -64,7 +64,7 @@ Personalized recommendations across sleep, exercise, nutrition, and habits.
 | Platform | Achievement |
 |---|---|
 | [Codeforces](https://codeforces.com/profile/NorLui) | Specialist · max rating 1406 · 600+ solved |
-| [LeetCode](https://leetcode.com/u/O1Nnpkej8w/) | Rating 1739 · 600+ solved |
+| [LeetCode](https://leetcode.com/u/O1Nnpkej8w/) | Rating 1739 · 550+ solved |
 | [CodeChef](https://www.codechef.com/users/norlui) | 2★ · max rating 1564 |
 
 🥇 Winner, **Enigma 39.0** (NIT Silchar's flagship CP contest)
