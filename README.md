@@ -2,7 +2,7 @@
 
 I'm a Computer Science undergrad at **NIT Silchar** and a founding member of **[Nor AI Technologies](https://norai.tech)**, where I'm the AI lead and systems architect. I build AI systems that do real work: retrieval pipelines, stateful agents, and the full-stack products around them.
 
-I also love competitive programming. I've solved 1300+ problems, I'm a **Codeforces Specialist**, and I won **Enigma 39.0**, NIT Silchar's flagship CP contest.
+I also love competitive programming. I've solved 1400+ problems across platforms, I'm a **Codeforces Specialist**, and I won **Enigma 39.0**, NIT Silchar's flagship CP contest.
 
 ---
 
