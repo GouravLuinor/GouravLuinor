@@ -64,7 +64,7 @@ Personalized recommendations across sleep, exercise, nutrition, and habits.
 | Platform | Achievement |
 |---|---|
 | [Codeforces](https://codeforces.com/profile/NorLui) | Specialist · max rating 1406 · 600+ solved |
-| [LeetCode](https://leetcode.com/u/O1Nnpkej8w/) | Rating 1739 · 550+ solved |
+| [LeetCode](https://leetcode.com/u/O1Nnpkej8w/) | Rating 1739 · 600+ solved |
 | [CodeChef](https://www.codechef.com/users/norlui) | 2★ · max rating 1564 |
 
 🥇 Winner, **Enigma 39.0** (NIT Silchar's flagship CP contest)
